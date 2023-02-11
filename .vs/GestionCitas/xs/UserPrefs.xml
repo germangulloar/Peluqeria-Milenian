@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3A05B621-4039-4786-90A8-FA4317F73AF7}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GestionCitas.Presentacion PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestionCitas.Datos/ClienteDAL.cs">
+    <Files>
+      <File FileName="GestionCitas.Datos/CitaDAL.cs" Line="1" Column="1" />
+      <File FileName="GestionCitas.Datos/ClienteDAL.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GestionCitas" expanded="True">
+            <Node name="GestionCitas.Datos" expanded="True">
+              <Node name="ClienteDAL.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,25 @@
+D:\Desarrollo\GestionCitas\GestionCitas.Datos\bin\Debug\GestionCitas.Datos.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Datos\bin\Debug\GestionCitas.Datos.pdb
+D:\Desarrollo\GestionCitas\GestionCitas.Datos\bin\Debug\GestionCitas.Entidades.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Datos\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desarrollo\GestionCitas\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.csprojResolveAssemblyReference.cache
+D:\Desarrollo\GestionCitas\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\bin\Debug\GestionCitas.Datos.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\bin\Debug\GestionCitas.Datos.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\bin\Debug\GestionCitas.Entidades.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.csproj.AssemblyReference.cache
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.csproj.CoreCompileInputs.cache
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.csproj.CopyComplete
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\bin\Debug\GestionCitas.Datos.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\bin\Debug\GestionCitas.Datos.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\bin\Debug\GestionCitas.Entidades.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.csproj.AssemblyReference.cache
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.csproj.CoreCompileInputs.cache
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.csproj.CopyComplete
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Datos\obj\Debug\GestionCitas.Datos.pdb

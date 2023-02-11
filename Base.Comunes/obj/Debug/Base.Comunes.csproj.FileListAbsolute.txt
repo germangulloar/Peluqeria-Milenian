@@ -1,0 +1,11 @@
+D:\Desarrollo\GestionCitas\Base.Comunes\bin\Debug\Base.Comunes.dll
+D:\Desarrollo\GestionCitas\Base.Comunes\bin\Debug\Base.Comunes.pdb
+D:\Desarrollo\GestionCitas\Base.Comunes\obj\Debug\Base.Comunes.csprojResolveAssemblyReference.cache
+D:\Desarrollo\GestionCitas\Base.Comunes\obj\Debug\Base.Comunes.dll
+D:\Desarrollo\GestionCitas\Base.Comunes\obj\Debug\Base.Comunes.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\Base.Comunes\bin\Debug\Base.Comunes.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\Base.Comunes\bin\Debug\Base.Comunes.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\Base.Comunes\obj\Debug\Base.Comunes.csproj.AssemblyReference.cache
+D:\Desktop\GestionCitas-master\GestionCitas-master\Base.Comunes\obj\Debug\Base.Comunes.csproj.CoreCompileInputs.cache
+D:\Desktop\GestionCitas-master\GestionCitas-master\Base.Comunes\obj\Debug\Base.Comunes.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\Base.Comunes\obj\Debug\Base.Comunes.pdb

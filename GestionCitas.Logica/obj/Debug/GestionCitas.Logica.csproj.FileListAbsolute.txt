@@ -1,0 +1,37 @@
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\bin\Debug\GestionCitas.Logica.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\bin\Debug\GestionCitas.Logica.pdb
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\bin\Debug\Base.Comunes.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\bin\Debug\GestionCitas.Datos.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\bin\Debug\GestionCitas.Entidades.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\bin\Debug\Base.Comunes.pdb
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\bin\Debug\GestionCitas.Datos.pdb
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.csprojResolveAssemblyReference.cache
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\bin\Debug\GestionCitas.Logica.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\bin\Debug\GestionCitas.Logica.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\bin\Debug\Base.Comunes.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\bin\Debug\GestionCitas.Datos.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\bin\Debug\GestionCitas.Entidades.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\bin\Debug\Base.Comunes.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\bin\Debug\GestionCitas.Datos.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.csproj.AssemblyReference.cache
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.csproj.CoreCompileInputs.cache
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.csproj.CopyComplete
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\bin\Debug\GestionCitas.Logica.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\bin\Debug\GestionCitas.Logica.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\bin\Debug\Base.Comunes.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\bin\Debug\GestionCitas.Datos.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\bin\Debug\GestionCitas.Entidades.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\bin\Debug\Base.Comunes.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\bin\Debug\GestionCitas.Datos.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.csproj.AssemblyReference.cache
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.csproj.CoreCompileInputs.cache
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.csproj.CopyComplete
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Logica\obj\Debug\GestionCitas.Logica.pdb

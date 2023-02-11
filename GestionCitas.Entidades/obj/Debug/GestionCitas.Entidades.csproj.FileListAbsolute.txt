@@ -1,0 +1,17 @@
+D:\Desarrollo\GestionCitas\GestionCitas.Entidades\bin\Debug\GestionCitas.Entidades.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Entidades\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desarrollo\GestionCitas\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.csprojResolveAssemblyReference.cache
+D:\Desarrollo\GestionCitas\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.dll
+D:\Desarrollo\GestionCitas\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Entidades\bin\Debug\GestionCitas.Entidades.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Entidades\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.csproj.AssemblyReference.cache
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.csproj.CoreCompileInputs.cache
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.dll
+D:\Desktop\GestionCitas-master\GestionCitas-master\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Entidades\bin\Debug\GestionCitas.Entidades.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Entidades\bin\Debug\GestionCitas.Entidades.pdb
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.csproj.AssemblyReference.cache
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.csproj.CoreCompileInputs.cache
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.dll
+D:\Desktop\Peluqueria Milenium\GestionCitasCasiFinal (Depuracion)\GestionCitas.Entidades\obj\Debug\GestionCitas.Entidades.pdb
